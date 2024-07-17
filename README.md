@@ -14,18 +14,6 @@ Event management features let users add, view, and delete events, with highlight
 - Responsive design for various screen sizes.
 - Accessible with ARIA labels and keyboard navigation support.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/calendar-application.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd calendar-application
-    ```
-3. Open `index.html` in your preferred web browser.
-
 ## Usage
 
 1. Use the navigation buttons to switch between months.
